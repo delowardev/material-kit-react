@@ -1,4 +1,13 @@
 export default {
+  body: {
+    fontWeight: 500,
+  },
+  body1: {
+    fontWeight: 500,
+  },
+  body2: {
+    fontWeight: 500,
+  },
   h1: {
     fontWeight: 500,
     fontSize: 35,
